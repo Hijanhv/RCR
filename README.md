@@ -5,7 +5,7 @@ how to use coda ai for root cause reasoning
 This template is designed to provide structured responses based on user instructions. Simply provide your instruction and the assistant will provide a response in Markdown format.
 
 
-
+https://coda.io/product/ai
 Coda AI can help streamline workflows, automate repetitive tasks, and improve overall productivity.
 
 i personally highly recommend using coda ai cus it can help you in your workplace , school homework and personal productivity too.
